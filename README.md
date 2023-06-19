@@ -1,9 +1,9 @@
 ### Student/CTFer 👋      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Snakinya&show_icons=true&theme=radical">
 
 - 🌄 苍山负雪，明烛天南
-- 😃 网安
-- 😭 Web菜狗
-- 🏚️ Blog：https://blog.csdn.net/cosmoslin
+- 😃 Snakinya
+- 😭 Web Security / Java Security /Network Security
+- 🏚️ Blog：www.snakin.top
 
 
 
