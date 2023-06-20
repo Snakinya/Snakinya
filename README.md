@@ -1,4 +1,4 @@
-### Student/CTFer 👋      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Snakinya&show_icons=true&theme=radical">
+### Student/CTFer 👋      
 
 - 🌄 苍山负雪，明烛天南
 - 😃 Snakinya
@@ -10,6 +10,8 @@
 
 <!--
 **Snakinya/Snakinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Snakinya&show_icons=true&theme=radical">
 
 Here are some ideas to get you started:
 
