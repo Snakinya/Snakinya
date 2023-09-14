@@ -5,8 +5,9 @@
 - 😭 Web Security / Java Security /Network Security
 - 🏚️ Blog：www.snakin.top
 
-
-
+Some of my CVEs:
+- CVE-2023-41578(Jeecg-boot Arbitrary File Read)
+- CVE-2023-42268(Jeecg-boot SQL Injection)
 
 <!--
 **Snakinya/Snakinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
