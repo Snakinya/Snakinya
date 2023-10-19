@@ -6,8 +6,9 @@
 - 🏚️ Blog：www.snakin.top
 
 Some of my CVEs:
-- CVE-2023-41578(Jeecg-boot Arbitrary File Read)
-- CVE-2023-42268(Jeecg-boot SQL Injection)
+- CVE-2023-46227(Apache Inlong)
+- CVE-2023-41578(Jeecg-boot)
+- CVE-2023-42268(Jeecg-boot)
 
 <!--
 **Snakinya/Snakinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
