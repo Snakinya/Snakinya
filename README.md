@@ -6,6 +6,7 @@
 - 🏚️ Blog：www.snakin.top
 
 Some of my CVEs:
+- CVE-2023-51770(Apache DolphinScheduler)
 - CVE-2023-46227(Apache Inlong)
 - CVE-2023-41578(Jeecg-boot)
 - CVE-2023-42268(Jeecg-boot)
