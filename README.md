@@ -2,8 +2,9 @@
 
 - 🌄 苍山负雪，明烛天南
 - 😃 Snakinya
-- 😭 Web Security / Java Security /Network Security
-- 🏚️ Blog：www.snakin.top
+- 💬 Network Security/ LLM Security/ Web Security / Java Security
+- 🌱 CTFer@0x401 Member@WgpSec
+- 🏚️ Profile：www.snakin.top
 
 Some of my CVEs:
 - CVE-2023-51770(Apache DolphinScheduler)
